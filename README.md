@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PouyaL
-- 👀 I’m interested in Products who solve a solution in a great way, Product design and 
+- 👀 Interested in Products that solve a problem, PM/Designer 
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on Products with autonomy to collaborate on design and front of the project.
 - 📫 How to reach me 👇 <p><a href="https://www.linkedin.com/in/pouya-lotfi-70531236/" rel="nofollow noreferrer">
