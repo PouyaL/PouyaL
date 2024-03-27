@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PouyaL
+- 👋 Hi, I’m @Pouya
 - 👀 Interested in Products that solve a problem, Experienced PM/Designer 
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Products with autonomy on Product management, product design and front-end.
