@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pouya/Poulo
 - Experienced PM/Designer 
-- 👀 Interested in Products that solve a problem. 
+- 👀 Interested in SaaS, Gen AI applications and E-commerce.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Products with autonomy on Product management, product design and front-end.
 - 📫 How to reach me 👇 <p><a href="https://bento.me/poulo" target="_blank" rel="nofollow">
