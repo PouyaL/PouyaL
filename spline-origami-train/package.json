@@ -1,0 +1,11 @@
+{
+  "name": "spline-origami-train",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export": "node export-glb.mjs"
+  },
+  "dependencies": {
+    "three": "0.169.0"
+  }
+}
